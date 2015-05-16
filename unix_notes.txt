@@ -1,11 +1,31 @@
+#UnixAndGitForEveryone
+
+# Change to home directory
+cd ~
+
+# See where you are
 pwd
+
+# Change to home directory
 cd
+
+# Pipe output of history to the pager less
 history | less
+
+# See history of command line
 history
+
+# Pipe output by newest last
 history | tail -t
 history | tail
+
+# clear terminal screen
 clear
+
+# Find out more about ...
 man ...
+
+
 ...
 cd ...
 ls
@@ -13,7 +33,7 @@ ls
 ls ~
 cd /
 cd .
-cd . 
+cd .
 cd ../..
 cd../..
 cd usr/bin/
@@ -105,7 +125,7 @@ cd ...
 ls ~
 cd /
 cd .
-cd . 
+cd .
 cd ../..
 cd../..
 cd usr/bin/
