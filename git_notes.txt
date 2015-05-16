@@ -1,0 +1,9 @@
+# To add branch to git
+git branch
+
+# To switch to different branch
+git checkout
+
+# To create new txt
+touch git_notes.txt
+
